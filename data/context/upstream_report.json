@@ -1,0 +1,15 @@
+{
+ "stations": 1187,
+ "snapped": 1171,
+ "snap_rules": {
+  "largest upstream area within 1 km": 1080,
+  "nearest reach within 2 km": 91,
+  "unsnapped (> 2 km from any reach)": 16
+ },
+ "median_snap_dist_m": 307.0,
+ "pop_year": 2020,
+ "raster": "ind_pop_2020_CN_100m_R2025A_v1.tif",
+ "population_grid_total_million": 1396.0,
+ "population_in_level12_units_million": 1395.7,
+ "stations_with_any_upstream_unit_outside_india": 348
+}

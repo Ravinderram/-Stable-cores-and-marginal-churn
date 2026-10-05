@@ -1,0 +1,19 @@
+station_uid,basin_cpcb_table,hybas_lev04,hybas_main_basin_lev04,hybas_rule_lev04,hybas_lev06,hybas_main_basin_lev06,hybas_rule_lev06,check
+WQS0339,Sabarmati,4040029530,4040029530,point in polygon,4060980270,4060031730,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1541,Cauvery,4040028770,4040028770,point in polygon,4060028770,4060028770,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1547,Cauvery,4040027950,4040027950,point in polygon,4060028680,4060028680,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1573,Cauvery,4040028770,4040028770,point in polygon,4060028770,4060028770,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1829,Ganga,4040025460,4040025460,point in polygon,4060026610,4060026610,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1854,Ganga,4040025460,4040025460,point in polygon,4060026610,4060026610,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1855,Ganga,4040025460,4040025460,point in polygon,4060026610,4060026610,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1856,Ganga,4040025460,4040025460,point in polygon,4060026610,4060026610,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1857,Ganga,4040025460,4040025460,point in polygon,4060026610,4060026610,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1858,Ganga,4040025460,4040025460,"nearest polygon, 124 m outside its edge",4060026260,4060026260,"nearest polygon, 124 m outside its edge",main basin differs from the usual one for its CPCB basin
+WQS1860,Ganga,4040025460,4040025460,point in polygon,4060026610,4060026610,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1861,Ganga,4040025460,4040025460,point in polygon,4060026610,4060026610,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1862,Ganga,4040025460,4040025460,point in polygon,4060026610,4060026610,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1863,Ganga,4040025460,4040025460,point in polygon,4060026670,4060026670,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1864,Ganga,4040025460,4040025460,point in polygon,4060026610,4060026610,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1865,Ganga,4040025460,4040025460,point in polygon,4060026610,4060026610,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1875,Ganga,4040025460,4040025460,point in polygon,4060026610,4060026610,point in polygon,main basin differs from the usual one for its CPCB basin
+WQS1886,Ganga,4040025460,4040025460,point in polygon,4060026610,4060026610,point in polygon,main basin differs from the usual one for its CPCB basin
