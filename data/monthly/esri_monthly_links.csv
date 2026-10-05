@@ -1,0 +1,325 @@
+key,station_uid,name_score,route,status
+CPCB|Sabari At Kunavaram Khammam|17.616333|81.286295,WQS0036,100.0,name match (coordinate pipeline),linked
+CPCB|Amravati At Village Dadhal  Ta Ankleshwar Bharuch|21.635384|73.064972,WQS0314,100.0,name match (coordinate pipeline),linked
+CPCB|Kim River At Sahol Bridge Olpad Hansot Road Dist. Surat|21.461094|72.726327,WQS0315,100.0,name match (coordinate pipeline),linked
+CPCB|Mahi At Mujpur|22.254744|72.982618,WQS0316,100.0,name match (coordinate pipeline),linked
+CPCB|Mahi At Sevalia|22.81225|73.359778,WQS0317,100.0,name match (coordinate pipeline),linked
+CPCB|Mahi At Sherkhi Bridge|22.342339|73.054185,WQS0318,100.0,name match (coordinate pipeline),linked
+CPCB|Mahi At Umeta Bridge|22.342298|73.052575,WQS0319,100.0,name match (coordinate pipeline),linked
+CPCB|Mahi At Vasad|22.4405|73.073361,WQS0320,100.0,name match (coordinate pipeline),linked
+CPCB|Narmada At Zanor (Ntpc) Bharuch|21.714997|73.042891,WQS0321,100.0,name match (coordinate pipeline),linked
+CPCB|Anas At Dahod (Kushalgarh) Dist. Panchmahal|22.846264|74.291789,WQS0322,100.0,name match (coordinate pipeline),linked
+CPCB|Bhukhi Khadi D/S Of Gidc Saykha Vill: Kothiya Ta: Vagra Dist Bharuch|21.832286|72.929571,WQS0323,100.0,name match (coordinate pipeline),linked
+CPCB|Bhukhi Khadi D/S Of Gidc Vilayat Ta; Vagra Dist Bharuch|21.784199|72.912815,WQS0324,100.0,name match (coordinate pipeline),linked
+CPCB|Bhukhi Khadi U/S Of Gidc Vilayat Ta; Vagra Dist Bharuch.|21.795463|72.907146,WQS0325,100.0,name match (coordinate pipeline),linked
+CPCB|Khari At Lali Village Near Ahmedabad|22.868749|72.627351,WQS0326,100.0,name match (coordinate pipeline),linked
+CPCB|River Mahi At Dodka|22.460278|73.093889,WQS0329,100.0,name match (coordinate pipeline),linked
+CPCB|Narmada At Bharuch Zadeshvar|21.665906|72.916681,WQS0334,100.0,name match (coordinate pipeline),linked
+CPCB|Narmada At Chandod|21.983722|73.456331,WQS0335,100.0,name match (coordinate pipeline),linked
+CPCB|Narmada At Garudeshwar|21.887833|73.645444,WQS0336,100.0,name match (coordinate pipeline),linked
+CPCB|Narmada At Gora Bridge Navagam (Gujarat)|21.862147|73.693991,WQS0337,100.0,name match (coordinate pipeline),linked
+CPCB|Narmada At Panetha|21.950608|73.584697,WQS0338,100.0,name match (coordinate pipeline),linked
+CPCB|Sabarmati After Conf. With Meshwa At Vautha (Near Dhokla)|22.721547|72.530103,WQS0340,100.0,name match (coordinate pipeline),linked
+CPCB|River Sabarmati At Ahmedabad U/S|23.158286|72.673413,WQS0342,100.0,name match (coordinate pipeline),linked
+CPCB|Sabarmati At Dharoi Dam|24.004528|72.853278,WQS0343,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Sabarmati At Gandhi Nagar Chiloda Bridge Lekawada|23.245906|72.68218,WQS0344,100.0,name match (coordinate pipeline),linked
+CPCB|Sabarmati River At Hansaol Bridge|23.090926|72.629239,WQS0345,100.0,name match (coordinate pipeline),linked
+CPCB|Sabarmati At Mahudi Jain Temple 150 Km. Form Origin|23.496903|72.796265,WQS0348,100.0,name match (coordinate pipeline),linked
+CPCB|Sabarmati At Railway Bridge Ahmedabad|23.06353|72.589064,WQS0349,100.0,name match (coordinate pipeline),linked
+CPCB|Sabarmati At Vill. Miroli Taluka Dascroi Ahmedabad|23.031314|72.575114,WQS0350,100.0,name match (coordinate pipeline),linked
+CPCB|Shedhi At Kheda|22.739321|72.679059,WQS0351,100.0,name match (coordinate pipeline),linked
+CPCB|Tapi At Nizhar (Gujarat)|21.479147|74.194227,WQS0352,100.0,name match (coordinate pipeline),linked
+CPCB|Tapi At Mandavi|21.247908|73.301033,WQS0353,100.0,name match (coordinate pipeline),linked
+CPCB|Tapi At Surat U/S Kathore|21.2855|72.935483,WQS0354,100.0,name match (coordinate pipeline),linked
+CPCB|Sabarmati At Ahmedabad At V.N. Bridge|22.982611|72.543139,WQS0355,100.0,name match (coordinate pipeline),linked
+CPCB|Sabarmati At Dharoi Dam|24.004528|72.853278,WQS0356,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Tapi At Rander Bridge Surat|21.194545|72.811552,WQS0358,100.0,name match (coordinate pipeline),linked
+CPCB|Tapi At Ukai Sherula Bridge|21.259844|73.565783,WQS0359,100.0,name match (coordinate pipeline),linked
+CPCB|Tapi River At Ongc Bridge At Surat Dist. Surat|21.148919|72.743684,WQS0360,100.0,name match (coordinate pipeline),linked
+CPCB|Tapi River Near Bardoli (Kapp Bridge) Bardoli|21.221618|73.170007,WQS0361,100.0,name match (coordinate pipeline),linked
+CPCB|Vishwamitri Upstream At Asod Bridge At N.H. 8  Near Glden Chokdi Asod Vemali Road|22.255227|73.165754,WQS0363,99.1,name match (coordinate pipeline),linked
+CPCB|Ganga At Rajmahal Bihar|25.056707|87.831867,WQS0600,100.0,name match (coordinate pipeline),linked
+CPCB|River Ganga At Sangi Dalan|25.05634|87.83515,WQS0618,100.0,name match (coordinate pipeline),linked
+CPCB|River Ganga D/S Near Janta Ghat|25.210819|87.769721,WQS0619,100.0,name match (coordinate pipeline),linked
+CPCB|River Ganga U/S Near Lct Ghat|25.292498|87.63183,WQS0620,100.0,name match (coordinate pipeline),linked
+CPCB|Asangi Nalla At Asangi Village|16.503131|75.116569,WQS0661,100.0,name match (coordinate pipeline),linked
+CPCB|Bhima At D/S Of Bdg. Near Yadgir|16.7341|77.130744,WQS0662,100.0,name match (coordinate pipeline),linked
+CPCB|Bhima At D/S Of Road Bridge At Gangapur Village|17.179219|76.566603,WQS0663,100.0,name match (coordinate pipeline),linked
+CPCB|Bhima At Ferozabad Village (D/S)|17.069328|76.794283,WQS0664,100.0,name match (coordinate pipeline),linked
+CPCB|Bhima River At Confluence Of Jewargi Town Sewage Disposal Point|17.043481|76.814478,WQS0665,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Sathyagalam Bridge|12.25531|77.163515,WQS0668,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Water Supply Intake Point At T K Halli|12.414678|77.194984,WQS0669,100.0,name match (coordinate pipeline),linked
+CPCB|Dakshina Pinakini River Near Mugalur Bridge Mugalur Bengaluru|13.3839|78.020738,WQS0672,100.0,name match (coordinate pipeline),linked
+CPCB|Gundal Reservoir Gundal Kollegala Tq & Chamarajanagara Dist|12.086597|77.198793,WQS0674,100.0,name match (coordinate pipeline),linked
+CPCB|Kagina D/S Of Sewage Disposal Point|17.107483|76.955311,WQS0675,100.0,name match (coordinate pipeline),linked
+CPCB|Krishna At D/S Of Alamatti Dam|16.325069|75.899925,WQS0677,100.0,name match (coordinate pipeline),linked
+CPCB|Krishna At D/S Of Narayanpura Dam|16.242436|76.370678,WQS0678,100.0,name match (coordinate pipeline),linked
+CPCB|Krishna At Tintini Bridge|16.369172|76.656647,WQS0679,100.0,name match (coordinate pipeline),linked
+CPCB|Malprabha At Badami Bridge|15.875672|75.722272,WQS0681,100.0,name match (coordinate pipeline),linked
+CPCB|Malprabha At D/S Of Aihole Town|16.009319|75.878022,WQS0682,100.0,name match (coordinate pipeline),linked
+CPCB|Bhadra At D/S Of Bhadravathi|13.832272|75.713164,WQS0688,100.0,name match (coordinate pipeline),linked
+CPCB|Bhadra At U/S Of Kiocl|13.212753|75.234217,WQS0691,100.0,name match (coordinate pipeline),linked
+CPCB|Bhadra At U/S Of Mpm|13.812647|75.716319,WQS0692,100.0,name match (coordinate pipeline),linked
+CPCB|Bhadra River D/S Mpm Bhadrawati Shivamogga Dist|13.845247|75.704467,WQS0693,100.0,name match (coordinate pipeline),linked
+CPCB|Bhima At Gangapur (Bangalore)|17.169773|76.935497,WQS0694,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Ajjibore (Bangalore)|12.24452|77.471777,WQS0696,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At D/S Of Karekuara Village|12.418187|76.679259,WQS0699,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Water Supply Intake Point To Srirangapatna Town|12.418848|76.682621,WQS0700,96.5,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Cauvery At Ranganathittu|12.425022|76.653544,WQS0705,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Sri Rangapattanna D/S Of Road Bdg.|12.423705|76.693672,WQS0706,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Water Supply Intake Point At Kollegala Dasanapura|12.259171|77.161325,WQS0707,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Water Supply Intake Point To Mandya Town|12.427942|76.67245,WQS0708,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Water Supply Intake Point To Srirangapatna Town|12.418848|76.682621,WQS0709,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Cauvery At Water Supply Intake Point To Srirangapatna Town|12.418848|76.682621,WQS0710,96.5,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Cauvery River Before Confluence At Sangam|12.407656|76.72181,WQS0711,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery River D/S Barachuki Falls Sathegala Kollegala|12.28783|77.183667,WQS0715,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery D/S Of Maddur Water Supply Treatment Plant At Bachalli|12.585609|77.04289,WQS0721,100.0,name match (coordinate pipeline),linked
+CPCB|Ghatprabha At D/S Of Mudhol Rd. Cross Bdg.|16.328103|75.268333,WQS0723,100.0,name match (coordinate pipeline),linked
+CPCB|Ghatprabha River Davalshwar Baraage Jackwell For Drinking Water Supply|16.321964|75.245115,WQS0724,98.4,name match (coordinate pipeline),linked
+CPCB|Hemavati At D/S Of Holenarasipura Town At Ramadevala Weir|12.809694|76.205642,WQS0726,100.0,name match (coordinate pipeline),linked
+CPCB|Kagina River At D/S Of Bridge Cum Barrage Sadem Tq|17.220551|77.263611,WQS0733,100.0,name match (coordinate pipeline),linked
+CPCB|Kagina At Shahabad Bridge|17.139369|76.966739,WQS0734,100.0,name match (coordinate pipeline),linked
+CPCB|Krishna At D/S Of Devasagar Bdg.|16.380508|77.362725,WQS0737,100.0,name match (coordinate pipeline),linked
+CPCB|Krishna At Deodurga (Bangalore)|16.423975|76.935497,WQS0738,100.0,name match (coordinate pipeline),linked
+CPCB|Manjeera At Janwada(Bangalore)|17.975036|77.411781,WQS0743,100.0,name match (coordinate pipeline),linked
+CPCB|Shimsha At D/S Of Bridge Halagur|12.422764|77.226144,WQS0745,100.0,name match (coordinate pipeline),linked
+CPCB|Shimsha D/S Near Madduar Town|12.584716|77.049787,WQS0747,100.0,name match (coordinate pipeline),linked
+CPCB|Tunga At D/S Of Shimoga Town|13.926464|75.583336,WQS0750,100.0,name match (coordinate pipeline),linked
+CPCB|Tunga River U/S Shivamogga City|13.702869|75.4042,WQS0751,100.0,name match (coordinate pipeline),linked
+CPCB|Tungabhadra River At Aravi|14.589412|75.805209,WQS0752,91.4,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Tungabhadra River At Aravi|14.589412|75.805209,WQS0753,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Tungabhadra At Confluence Point Of Tunga And Bhadra At Kudli|14.011333|75.676667,WQS0754,100.0,name match (coordinate pipeline),linked
+CPCB|Tungabhadra At D/S Of Gangawathi|15.41225|76.58625,WQS0755,100.0,name match (coordinate pipeline),linked
+CPCB|Tungabhadra At D/S Of Hpf|14.514278|75.785697,WQS0756,100.0,name match (coordinate pipeline),linked
+CPCB|Tungabhadra At Dadesugur Bridge Gauging Station|15.691848|76.895721,WQS0757,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Tungabhadra At Hochechalli (Bangalore)|15.766044|76.98655,WQS0760,100.0,name match (coordinate pipeline),linked
+CPCB|Tungabhadra At New Bridge|14.514278|75.785697,WQS0761,90.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Tungabhadra River At Mylara|14.826018|75.674049,WQS0765,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Tungabhadra At New Bridge|14.514278|75.785697,WQS0767,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Tungabhadra River At Mylara|14.826018|75.674049,WQS0768,85.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Tungabhadra At U/S Of Hpf|14.514278|75.785697,WQS0769,100.0,name match (coordinate pipeline),linked
+CPCB|Shimsha At Water Supply Intake Point At Madduar|12.584216|77.041515,WQS0770,100.0,name match (coordinate pipeline),linked
+CPCB|Suvaranvathi Reservoir Attigullipura Chamarajanagar|11.827676|77.026369,WQS0771,100.0,name match (coordinate pipeline),linked
+CPCB|Tungabhadra At New Bridge|14.514278|75.785697,WQS0772,90.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Tungabhadra At Ullanur|15.494844|76.692417,WQS0773,100.0,name match (coordinate pipeline),linked
+CPCB|Yagachi River Near Pumping Station. Hassan City|13.006814|76.099553,WQS0774,100.0,name match (coordinate pipeline),linked
+CPCB|Bhima At Pune D/S Of Bundgarden Yerwada Haweli Pune|18.54325|73.885036,WQS0952,100.0,name match (coordinate pipeline),linked
+CPCB|Bhima River At Koregaon Near Koregaon Bridge Shirur Pune|18.645719|74.056442,WQS0954,100.0,name match (coordinate pipeline),linked
+CPCB|Bhima River-Backwater Of Ujani Dam Near Raw Water Pump House Kumbargaon Indapur Pune|18.202061|75.088989,WQS0955,100.0,name match (coordinate pipeline),linked
+CPCB|Chandrabhaga D/S Of Pandharpur Town Gursale Pandharpur Solapur|17.677706|75.339011,WQS0958,100.0,name match (coordinate pipeline),linked
+CPCB|Chandrabhaga U/S Of Pandharpur Town Gursale Pandharpur Solapur|17.724868|75.323936,WQS0959,100.0,name match (coordinate pipeline),linked
+CPCB|Darna River At Bhagur Pumping Station Near Pandhurli Bridge Bhagur Nashik|19.872772|73.834011,WQS0960,100.0,name match (coordinate pipeline),linked
+CPCB|Darna River At Chehedi Pumping Station Chehedi Nashik Nashik|19.932352|73.856413,WQS0961,100.0,name match (coordinate pipeline),linked
+CPCB|Darna River At Mes Site Pumping Station Bhagur Nashik|19.870494|73.829919,WQS0962,100.0,name match (coordinate pipeline),linked
+CPCB|Darna River At Sansari  Nashik Nashik|19.900366|73.838095,WQS0963,100.0,name match (coordinate pipeline),linked
+CPCB|Darna River At Aswali (Darna Dam) Lgatpuri Nashik|19.761988|73.737187,WQS0964,100.0,name match (coordinate pipeline),linked
+CPCB|Ghod River At Shirur Pune|18.831722|74.387839,WQS0965,100.0,name match (coordinate pipeline),linked
+CPCB|Girna At Jalgaon|20.674774|75.22279,WQS0966,100.0,name match (coordinate pipeline),linked
+CPCB|Godavari At Dhalegaon Pathari Parbhani|19.226068|76.367013,WQS0967,100.0,name match (coordinate pipeline),linked
+CPCB|Godavari At Jayakwadi Dam Paithanauranagabad|19.485317|75.370099,WQS0968,89.2,name match (coordinate pipeline),linked
+CPCB|Godavari River At U/S Of Aurangabad Reservoir Kaigaon Tokka Near Kaigaon Bridgekaigaon Gangapur Aur|19.63253|75.028605,WQS0971,92.9,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Godavari River At Tapovan Tapovan Nashik|19.987307|73.811028,WQS0972,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Hiwara River D/S Of Pachora Jalgaon|20.6589|75.349177,WQS0974,100.0,name match (coordinate pipeline),linked
+CPCB|Indrayani River At D/S Of Moshigaon Haweli Pune|18.677697|73.851206,WQS0975,100.0,name match (coordinate pipeline),linked
+CPCB|Krishna At Krishna Bridge Karad Karad Satara|17.295256|74.188776,WQS0977,100.0,name match (coordinate pipeline),linked
+CPCB|Krishna River At Kshetra Mahuli Mahuli Satara|17.688548|74.063324,WQS0979,100.0,name match (coordinate pipeline),linked
+CPCB|Krishna D/S Of Islampur Walwa Sangli|17.029275|74.380064,WQS0982,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Manjeera River At D/S Of Latur Near Latur-Nanded Bridge Bhatkheda Latur Latur|18.429431|76.668723,WQS0984,94.3,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Manjeera River At D/S Of Latur Near Latur-Nanded Bridge Bhatkheda Latur Latur|18.429431|76.668723,WQS0985,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Mor River Near Padalshe Jalgaon|21.105797|75.798376,WQS0986,100.0,name match (coordinate pipeline),linked
+CPCB|Mula River At Aundh Bridge Aundhgaon Haweli Pune|18.567737|73.811752,WQS0987,100.0,name match (coordinate pipeline),linked
+CPCB|Mutha River At Khadakvasla Dam Khadakvasla Haweli Pune.|18.430149|73.754941,WQS0988,100.0,name match (coordinate pipeline),linked
+CPCB|Mutha River Near Veer Savarkar Bhavan Pune|18.521303|73.850578,WQS0989,100.0,name match (coordinate pipeline),linked
+CPCB|Nira River At D/S Of Jubilant Organosis Nimbut Baramatipune.|18.103405|74.234805,WQS0991,98.9,name match (coordinate pipeline),linked
+CPCB|Nira River At Sangavi Phaltan Satara|18.055999|74.483941,WQS0992,100.0,name match (coordinate pipeline),linked
+CPCB|Nira River At Shindewadi. Shirval Khandala Satara|18.147434|73.977285,WQS0993,100.0,name match (coordinate pipeline),linked
+CPCB|Nira River At U/S Of Jubilant Organosis Nira(Dattaghat) Baramati Pune|18.097756|74.213675,WQS0994,100.0,name match (coordinate pipeline),linked
+CPCB|Panchaganga At Ichalkaranji Shiradwadhatkanangalekohlapur|16.746155|74.445716,WQS0995,100.0,name match (coordinate pipeline),linked
+CPCB|Panchaganga D/S Of Kolhapur Town Uchegaon Kolhapur|16.695477|74.274998,WQS0996,100.0,name match (coordinate pipeline),linked
+CPCB|Panchaganga River At Shirol Near Shirol Intake Well Kolhapur|16.721492|74.594819,WQS0997,100.0,name match (coordinate pipeline),linked
+CPCB|Panchaganga U/S Of Kolhapur Town Balinga Karvir Kolhapur|16.688467|74.169462,WQS0998,100.0,name match (coordinate pipeline),linked
+CPCB|Pawana River At Chinchwadgaon Haweli Pune|18.641184|73.792731,WQS1000,100.0,name match (coordinate pipeline),linked
+CPCB|Pawana River At Kasarwadi Haweli Pune|18.60677|73.821067,WQS1001,100.0,name match (coordinate pipeline),linked
+CPCB|Pawana River At Pimprigaon Haweli Pune|18.607788|73.797949,WQS1002,100.0,name match (coordinate pipeline),linked
+CPCB|Penganga River Near Water Supply Scheme Of Umarkhed Mc Belkhed Umarkhed Yavatmal|19.597589|77.691614,WQS1003,100.0,name match (coordinate pipeline),linked
+CPCB|Rangavali D/S Of Navapur Nandurbar|21.161624|73.793751,WQS1005,100.0,name match (coordinate pipeline),linked
+CPCB|Krishna River At Wai Satara|17.949284|73.891316,WQS1006,100.0,name match (coordinate pipeline),linked
+CPCB|Bhima At Narsingpur (D/S Af.Confl.With R.Nira) Narsingpur Malshiros Solapur|17.985845|75.116249,WQS1008,100.0,name match (coordinate pipeline),linked
+CPCB|Bhima At Pune U/S Vithalwadi Haweli Pune|18.481871|73.829569,WQS1009,100.0,name match (coordinate pipeline),linked
+CPCB|Godavari At Nasik D/S Gadgebaba Maharaj Nagar Nashik|20.001568|73.795314,WQS1014,100.0,name match (coordinate pipeline),linked
+CPCB|Godavari River At D/S Of Paithan At Pathegaon Bridge Pathegaon Paithan Aurangabad|19.467269|75.397267,WQS1015,100.0,name match (coordinate pipeline),linked
+CPCB|Godavari River At Hanuman Ghat Nashik City Nashik|20.008887|73.783052,WQS1016,100.0,name match (coordinate pipeline),linked
+CPCB|Godavari River At Jalna Intake Water Pump House Shahabad Ambad Jalna|19.360024|75.709583,WQS1017,100.0,name match (coordinate pipeline),linked
+CPCB|Godavari River At Tapovan Tapovan Nashik|19.987307|73.811028,WQS1018,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Godavari River At Latur Water Intake Near Pump House At Dhamegaon Kalumb Osmanabad|20.793322|78.139339,WQS1019,100.0,name match (coordinate pipeline),linked
+CPCB|Godavari At Raher Nayagaon Nanded|18.85443|77.527475,WQS1020,100.0,name match (coordinate pipeline),linked
+CPCB|Godavari At Panchavati At Ramkundnashik|20.008676|73.792361,WQS1021,90.0,name match (coordinate pipeline),linked
+CPCB|Godavari River At U/S Of Aurangabad Reservoir Kaigaon Tokka Near Kaigaon Bridgekaigaon Gangapur Aur|19.63253|75.028605,WQS1023,94.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Godavari River At U/S Of Paithan At Paithan Intake Pump House At Jayakwadi Paithan Aurangabad|19.478228|75.384879,WQS1025,100.0,name match (coordinate pipeline),linked
+CPCB|Indrayani River At D/S Of Alandigaon Hawelipune|18.682216|73.900116,WQS1027,98.6,name match (coordinate pipeline),linked
+CPCB|Indrayani River At U/S Of Moshigaon Haweli Pune|18.677486|73.851233,WQS1028,100.0,name match (coordinate pipeline),linked
+CPCB|Kanhan River D/S Of M/S Vidharbha Paper Mill Sinora Parseoni Nagpur|21.209724|79.236711,WQS1029,100.0,name match (coordinate pipeline),linked
+CPCB|Kanhan River U/S Of M/S Vidharbha Paper Mill Sinora Parseoni Nagpur|21.206788|79.246193,WQS1030,100.0,name match (coordinate pipeline),linked
+CPCB|Kolar Before Confluence To Kanhan At Waregaon Kamptee Nagpur|21.246917|79.153882,WQS1031,100.0,name match (coordinate pipeline),linked
+CPCB|Koyna River At Karad Satara|17.278589|74.183705,WQS1032,100.0,name match (coordinate pipeline),linked
+CPCB|Krishna At Rajapur Weir Rajapur Shirol Kohlapur|16.657053|73.521386,WQS1033,100.0,name match (coordinate pipeline),linked
+CPCB|Krishna D/S Of Islampur Walwa Sangli|17.029275|74.380064,WQS1034,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Mula River At Harrison Bridge Near Mula- Pawana Sangam Bopodi Haweli Pune|18.5746|73.836055,WQS1036,100.0,name match (coordinate pipeline),linked
+CPCB|Mula-Mutha River At D/S Of Theur Haweli Pune|18.521663|74.050564,WQS1037,100.0,name match (coordinate pipeline),linked
+CPCB|Mula-Mutha River At Mundhawa Bridge Munthawahaweli Pune|18.535371|73.933306,WQS1038,100.0,name match (coordinate pipeline),linked
+CPCB|Mutha River At Deccan Bridge Deccan Pune|18.515539|73.844447,WQS1039,100.0,name match (coordinate pipeline),linked
+CPCB|Mutha River At Sangam Bridge Near Ganapathy Ghat Shivajinagar Pune|18.532374|73.843415,WQS1040,100.0,name match (coordinate pipeline),linked
+CPCB|Nira At Sarola Bdg.On Pune-Banglore Highway Sarola Bhor Pune|18.172703|73.953644,WQS1041,100.0,name match (coordinate pipeline),linked
+CPCB|Pawana River At Dapodi Bridge At Pawana-Mulla Sangam Dapodi Haweli Pune|18.582775|73.826155,WQS1042,100.0,name match (coordinate pipeline),linked
+CPCB|Pawana River At Ravet Weir Ravet Haweli Pune|18.660929|73.731891,WQS1043,100.0,name match (coordinate pipeline),linked
+CPCB|Pawana River At Sangavigaon Haweli Pune.|18.670292|73.681639,WQS1044,100.0,name match (coordinate pipeline),linked
+CPCB|Penganga River D/S Of Isapur Dam Isapur Pusad Yavatmal|19.724881|77.446567,WQS1047,100.0,name match (coordinate pipeline),linked
+CPCB|Tapi At Ajnad (Maharashtra)|21.193101|74.998197,WQS1051,100.0,name match (coordinate pipeline),linked
+CPCB|Tapi At Prakasha (Maharashtra)|21.51157|74.341964,WQS1052,100.0,name match (coordinate pipeline),linked
+CPCB|Tapi At Ubad Villageshahada Nandurbar|21.546291|74.466807,WQS1054,88.5,name match (coordinate pipeline),linked
+CPCB|Wainganga After Conluence With Kanhan Ambhora Kuhi Nagpur|19.731126|79.776401,WQS1055,100.0,name match (coordinate pipeline),linked
+CPCB|Wainganga At Ashtigondpipri Chandrapur|19.715385|79.685289,WQS1056,98.6,name match (coordinate pipeline),linked
+CPCB|Wainganga At Bapera Bhandara (Maharashtra)|21.51064|79.894955,WQS1057,100.0,name match (coordinate pipeline),linked
+CPCB|Wainganga River D/S Of Ellora Paper Mill Tumsar Tumsar Bhandara|21.380853|79.745595,WQS1058,100.0,name match (coordinate pipeline),linked
+CPCB|Wainganga River U/S Of Ellora Paper Mill Tumsar Tumsar Bhandara|21.380729|79.745477,WQS1059,100.0,name match (coordinate pipeline),linked
+CPCB|Wardha River At Confluence Point Of Penganga & Wardha At Jugad Wani Yavatmal|20.062424|78.956456,WQS1060,100.0,name match (coordinate pipeline),linked
+CPCB|Wardha River D/S Of Acc Ghuggus Chandrapur Chandrapur|19.922574|79.113955,WQS1061,100.0,name match (coordinate pipeline),linked
+CPCB|Wardha River At D/S Of Erai River Hadasti Chandrapur Chandrapur|19.962632|79.277747,WQS1062,100.0,name match (coordinate pipeline),linked
+CPCB|Wardha At Pulgaon Railway Bridge Pulgaon Wardha Wardha|20.726241|78.31758,WQS1063,100.0,name match (coordinate pipeline),linked
+CPCB|Wardha River At U/S Of Acc Ghuggus.  Chandrapur Chandrapur|19.956027|79.099547,WQS1064,100.0,name match (coordinate pipeline),linked
+CPCB|Wardha River At U/S Of Erai River Hadasti Chandrapur Chandrapur|19.962783|79.277286,WQS1065,100.0,name match (coordinate pipeline),linked
+CPCB|Sina River Near Laboti Toll Naka Laboti Mohal Solapur|17.781359|75.723133,WQS1066,100.0,name match (coordinate pipeline),linked
+CPCB|Titur River D/S Of Chalisgaon Jalgaon|20.470053|75.025947,WQS1067,100.0,name match (coordinate pipeline),linked
+CPCB|Urmodi River Nagthane Satara|17.570306|74.050736,WQS1068,100.0,name match (coordinate pipeline),linked
+CPCB|Vel River At Shikrapur Shirur Pune|18.692778|74.13348,WQS1069,100.0,name match (coordinate pipeline),linked
+CPCB|Venna River At Mahabaleshwar Satara|17.933739|73.665091,WQS1070,100.0,name match (coordinate pipeline),linked
+CPCB|Venna River At Varye Satara.|17.732719|73.991512,WQS1072,100.0,name match (coordinate pipeline),linked
+CPCB|Wainganga D/S Of Gaurav Paper Mills Near Jackwell Bramhpuri Chandrapur|20.610126|79.858051,WQS1074,100.0,name match (coordinate pipeline),linked
+CPCB|Wainganga U/S Of Gaurav Paper Mills Near Jackwell Bramhpuri Chandrapur|20.609867|79.857681,WQS1075,100.0,name match (coordinate pipeline),linked
+CPCB|Wardha At Rajura Bridgerajura Chandrapur Chandrapur|19.77611|79.354942,WQS1076,91.2,name match (coordinate pipeline),linked
+CPCB|Wena River At D/S Of Mohata Mills Nr Rd Brg On Hinganghat-Wadner Road Hinganghat Wardha|20.544289|78.811978,WQS1077,100.0,name match (coordinate pipeline),linked
+CPCB|Wena River At U/S Of Mohata Mills Near Railway Bridge Hinganghat Wardha|20.555303|78.816456,WQS1078,100.0,name match (coordinate pipeline),linked
+CPCB|Manda River (Dudhai River) At Jampa|25.65076|90.80859,WQS1121,100.0,name match (coordinate pipeline),linked
+CPCB|Manda River (Dudhai River) At Wagaisi|25.8358|90.78135,WQS1122,100.0,name match (coordinate pipeline),linked
+CPCB|Bugi River At Mibanpara|25.336148|90.339247,WQS1124,92.9,name match (coordinate pipeline),linked
+CPCB|Damring River (Krishnei River) At Resubelpara|25.904203|90.606251,WQS1125,100.0,name match (coordinate pipeline),linked
+CPCB|Kalipai River At Rymbai|25.3252|92.31673,WQS1129,100.0,name match (coordinate pipeline),linked
+CPCB|Kmeum River At Rymbai|25.33435|92.31437,WQS1130,100.0,name match (coordinate pipeline),linked
+CPCB|Kupli River At Khandong|25.52665|92.62767,WQS1131,100.0,name match (coordinate pipeline),linked
+CPCB|Kupli River At Looski|25.50332|92.59048,WQS1132,100.0,name match (coordinate pipeline),linked
+CPCB|Kwai River At Sutnga Mawpun|25.38251|92.45122,WQS1133,100.0,name match (coordinate pipeline),linked
+CPCB|Kynshi River At Nangkhnum|25.474742|91.263805,WQS1134,100.0,name match (coordinate pipeline),linked
+CPCB|Kynshi River At Ranikor|25.223748|91.240649,WQS1135,100.0,name match (coordinate pipeline),linked
+CPCB|Kynshi River At Sohiong|25.499935|91.708243,WQS1136,100.0,name match (coordinate pipeline),linked
+CPCB|Laitryngew Stream At Laitryngew|25.324016|91.731814,WQS1138,100.0,name match (coordinate pipeline),linked
+CPCB|Lamu River At Leshka|25.268424|92.198469,WQS1139,100.0,name match (coordinate pipeline),linked
+CPCB|Lukha River At Khaddum|25.224359|92.422355,WQS1140,100.0,name match (coordinate pipeline),linked
+CPCB|Lukha River At Myndihati (Tributary Of Lunar)|25.293878|92.391253,WQS1142,100.0,name match (coordinate pipeline),linked
+CPCB|Lynriang Riang River At Leshka|25.23431|92.22689,WQS1143,100.0,name match (coordinate pipeline),linked
+CPCB|Myntang River At Mynso Jayantia Hills|25.525132|92.297969,WQS1144,100.0,name match (coordinate pipeline),linked
+CPCB|Myntang River At Nartiang Jayantia Hills|25.565302|92.209276,WQS1145,100.0,name match (coordinate pipeline),linked
+CPCB|Myntdu River At Leshka Jayantia Hills|25.268735|92.19829,WQS1146,100.0,name match (coordinate pipeline),linked
+CPCB|Myntdu River At Mihmyntdu|25.434337|92.204576,WQS1147,100.0,name match (coordinate pipeline),linked
+CPCB|Myntdu River Jowai|25.439233|92.219175,WQS1148,100.0,name match (coordinate pipeline),linked
+CPCB|Nonbah River At Nangstoin Marke|25.524342|91.272386,WQS1149,100.0,name match (coordinate pipeline),linked
+CPCB|Nonbah River At Photsohsat|25.52527|91.28034,WQS1150,100.0,name match (coordinate pipeline),linked
+CPCB|Nongal River At Nangalbibra|25.45203|90.7055,WQS1151,100.0,name match (coordinate pipeline),linked
+CPCB|Rilang River At Mawkyrwat|25.38231|91.40126,WQS1152,100.0,name match (coordinate pipeline),linked
+CPCB|Rwiang River At Rwiang|25.60413|91.18264,WQS1153,100.0,name match (coordinate pipeline),linked
+CPCB|River Sderkariah At Sohra (Cherrapunjee)|25.289431|91.712861,WQS1154,100.0,name match (coordinate pipeline),linked
+CPCB|Simsang River At Baghmere|25.45442|90.70581,WQS1155,87.5,name match (coordinate pipeline),linked
+CPCB|Nangalbibra Bridge|25.489101|90.774034,WQS1156,100.0,name match (coordinate pipeline),linked
+CPCB|Simsang River Williamnagar|25.473479|90.620548,WQS1157,100.0,name match (coordinate pipeline),linked
+CPCB|Thlumuwi River At Thlumuwi|25.34692|92.14458,WQS1158,100.0,name match (coordinate pipeline),linked
+CPCB|Umkhen River At Diengpasoh|25.593153|92.041119,WQS1164,100.0,name match (coordinate pipeline),linked
+CPCB|Umkhen River At Ksehpongdeng|25.566645|92.030121,WQS1165,100.0,name match (coordinate pipeline),linked
+CPCB|Umkhen River At Wah Kdait|25.606128|92.073859,WQS1166,100.0,name match (coordinate pipeline),linked
+CPCB|Umkhrah River At Demthring Shillong|25.55801|91.909026,WQS1167,100.0,name match (coordinate pipeline),linked
+CPCB|Umkhrah River At Mawlai Near Slaughter House|25.624451|91.881237,WQS1168,100.0,name match (coordinate pipeline),linked
+CPCB|Umkhrah River At Mawpdang Mawlai|25.587194|91.990592,WQS1169,100.0,name match (coordinate pipeline),linked
+CPCB|Umkhrah River Atumkaliar Shillong|25.58026|91.90816,WQS1170,96.2,name match (coordinate pipeline),linked
+CPCB|Umngi River At Jakrem|25.39074|91.507333,WQS1171,100.0,name match (coordinate pipeline),linked
+CPCB|Umngi River At Umpung|25.169224|91.385296,WQS1172,100.0,name match (coordinate pipeline),linked
+CPCB|Umngot River At Dawki|25.201766|92.019339,WQS1173,100.0,name match (coordinate pipeline),linked
+CPCB|Umngot River At Smit|25.499514|91.902321,WQS1174,100.0,name match (coordinate pipeline),linked
+CPCB|Umshyrpi River At Law College Dhanketi|25.56574|91.889085,WQS1175,100.0,name match (coordinate pipeline),linked
+CPCB|Umshyrpi River At Risa Colony|25.561417|91.893367,WQS1176,100.0,name match (coordinate pipeline),linked
+CPCB|Umshyrpi River At Umshyrpi Bridge|25.566957|91.87779,WQS1177,100.0,name match (coordinate pipeline),linked
+CPCB|Wah Blei At Riangdo|25.673831|91.061082,WQS1180,100.0,name match (coordinate pipeline),linked
+CPCB|Wah Blei At Shdaddkhar|25.66259|91.08636,WQS1181,100.0,name match (coordinate pipeline),linked
+CPCB|Wahkhlek Khlek River At Saitsohpen|25.24998|91.74238,WQS1182,100.0,name match (coordinate pipeline),linked
+CPCB|Wahrew River At Majai|25.188348|91.764313,WQS1183,100.0,name match (coordinate pipeline),linked
+CPCB|Waikhrwi River At Mookhlot|25.348229|92.42338,WQS1184,100.0,name match (coordinate pipeline),linked
+CPCB|Banguru Nallah (Over Bridge Talcher Rengali Dam Road Sarkisorepal)|21.311885|86.475846,WQS1290,100.0,name match (coordinate pipeline),linked
+CPCB|Budhabalanga At Balasore D/S|21.486397|86.993447,WQS1351,100.0,name match (coordinate pipeline),linked
+CPCB|Subarnarekha At Lakhannath (Orissa)|21.855659|87.247746,WQS1412,100.0,name match (coordinate pipeline),linked
+CPCB|Sono River At Kanandurga Road Near Remuna Hatogond|21.550686|86.858922,WQS1421,100.0,name match (coordinate pipeline),linked
+CPCB|Amravati At 1km D/S From Eff.Dis. Pt. At Madhuthukkulam|10.541244|77.368656,WQS1535,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At 1km. D/S Of Bhavani River Confl. Tamilnadu|11.445663|77.677626,WQS1536,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Coleroon Tamilnadu|11.326822|79.702981,WQS1537,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Erode Near Chirapalayam Tamilnadu|11.335795|77.753762,WQS1538,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Komarapalayam Namakal Tamilnadu|11.423503|77.685261,WQS1539,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Mayiladuthurai Nagapattinam Tamilnadu|11.104894|79.651871,WQS1541,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Mettur|11.796255|77.806971,WQS1542,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Mohanur Near Pattaipalayam Tamilnadu|11.064392|78.120358,WQS1543,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Musiri|10.955345|78.443949,WQS1544,100.0,name match (coordinate pipeline),linked
+CPCB|River Cauvery At Pallipalayam D/S|11.365347|77.741652,WQS1545,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Cauvery At Pettaivaithalai Trichy Tamilnadu|10.906389|78.489697,WQS1546,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Pitchavaram Tamilnadu|11.418828|79.772375,WQS1547,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Tiruchirappalli D/S Tamilnadu|10.766809|78.665272,WQS1550,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Tiruchirappalli U/S Tamilnadu|10.833263|78.718224,WQS1551,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Trichy Grand Anaicut Tamilnadu|10.830327|78.81177,WQS1552,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Urrachikottai Erode Tamilnadu|11.354178|77.750436,WQS1553,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Vairapalayam Namakal Tamilnadu|11.361583|77.742411,WQS1554,100.0,name match (coordinate pipeline),linked
+CPCB|Cauvery At Velore Near Kattipalayam Tamilnadu|11.18|78.01,WQS1555,100.0,name match (coordinate pipeline),linked
+CPCB|River Adyar At Kotturpuram Bridge|13.025906|80.243554,WQS1558,100.0,name match (coordinate pipeline),linked
+CPCB|River Adyar Near Boat Club|13.023184|80.247552,WQS1561,100.0,name match (coordinate pipeline),linked
+CPCB|Bhavani At Bhavani Tamilnadu|11.454094|77.679567,WQS1562,100.0,name match (coordinate pipeline),linked
+CPCB|River Cauvery At Erode U/S|11.369068|77.727294,WQS1570,100.0,name match (coordinate pipeline),linked
+CPCB|River Cauvery At Kumarapalayam U/S|11.427111|77.686922,WQS1572,100.0,name match (coordinate pipeline),linked
+CPCB|River Cauvery At Mayiladuthurai D/S|11.105488|79.647969,WQS1573,100.0,name match (coordinate pipeline),linked
+CPCB|River Cauvery At Pallipalayam D/S|11.365347|77.741652,WQS1574,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Cauvery At Thirumukkudal-Confl. Pt.Of R. Amravati Tamilnadu|11.050024|78.120645,WQS1575,100.0,name match (coordinate pipeline),linked
+CPCB|River Cooum At Amanjikarai|13.068081|80.231405,WQS1576,100.0,name match (coordinate pipeline),linked
+CPCB|River Cooum At Anna Nagar|13.07865|80.207011,WQS1577,100.0,name match (coordinate pipeline),linked
+CPCB|River Cooum At Arumbakkam|13.074866|80.221849,WQS1578,100.0,name match (coordinate pipeline),linked
+CPCB|River Cooum At Collage Road|13.070824|80.249921,WQS1579,100.0,name match (coordinate pipeline),linked
+CPCB|River Cooum At Napier Bridge|13.069423|80.284355,WQS1580,100.0,name match (coordinate pipeline),linked
+CPCB|Located Adjacent To Karu Msw Dump Site And On The Northern Bank Of River Amaravathi And Downstream |10.951185|78.035374,WQS1583,100.0,name match (coordinate pipeline),linked
+CPCB|River Locations At Kumarapalayam|11.447221|77.691963,WQS1585,100.0,name match (coordinate pipeline),linked
+CPCB|Sarabanga At Salem D/S Of Textile Dyeing Industries Effluent Tamilnadu|11.649094|78.148011,WQS1586,100.0,name match (coordinate pipeline),linked
+CPCB|Thirumanimuthar At Salem D/S Of Sago & Textile Dying Industries Tamilnadu|11.645876|78.120341,WQS1587,100.0,name match (coordinate pipeline),linked
+CPCB|River Vaigai At Madurai D/S|9.92812|78.125036,WQS1588,100.0,name match (coordinate pipeline),linked
+CPCB|River Vaigai At Madurai U/S|9.927433|78.121013,WQS1589,100.0,name match (coordinate pipeline),linked
+CPCB|Thanjavur|10.786359|79.157779,WQS1590,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Thanjavur|10.786359|79.157779,WQS1591,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Vasista At Salem D/S Of Sago Indusries Effluent Tamilnadu|11.647853|78.138125,WQS1592,100.0,name match (coordinate pipeline),linked
+CPCB|River Gomti At Gaughat D/S|26.642458|81.607771,WQS1723,100.0,name match (coordinate pipeline),linked
+Uttarakhand|Devprayag|30.145239|78.604769,WQS1782,100.0,name match (coordinate pipeline),dropped: not one-to-one
+Uttarakhand|Devprayag|30.145239|78.604769,WQS1783,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Ganga At Rishikesh U/S|30.115135|78.307032,WQS1788,100.0,name match (coordinate pipeline),linked
+CPCB|Gola River At Haldwani|29.209064|79.537174,WQS1789,100.0,name match (coordinate pipeline),linked
+CPCB|Stp At Jagjitpur Uttrakhand|29.911639|78.138548,WQS1790,100.0,name match (coordinate pipeline),linked
+Uttarakhand|Badrinath|30.741097|79.49505,WQS1795,100.0,name match (coordinate pipeline),linked
+CPCB|Ganga At Sultanpur (Uttarakhand)|29.640072|78.103486,WQS1801,100.0,name match (coordinate pipeline),linked
+CPCB|River Ganga D/S Rishikesh|30.0305|78.245833,WQS1804,100.0,name match (coordinate pipeline),linked
+"Uttarakhand|Ganga River, Haridwar|29.955769|78.17065",WQS1805,100.0,name match (coordinate pipeline),linked
+CPCB|Suswa River At Mathurawala Dehradun|30.25|78.016667,WQS1817,100.0,name match (coordinate pipeline),linked
+CPCB|Tons At Haripur (U.K.)|30.517139|77.818659,WQS1818,100.0,name match (coordinate pipeline),linked
+CPCB|Yamuna At U/S Dak Pather|30.498618|77.803498,WQS1819,100.0,name match (coordinate pipeline),linked
+CPCB|Stp At Swarg Ashram-1 Uttarakhand|30.116167|78.310696,WQS1820,100.0,name match (coordinate pipeline),linked
+CPCB|Yamuna At U/S Of Lakhwar Dam|30.518822|77.949536,WQS1824,100.0,name match (coordinate pipeline),linked
+CPCB|Tungabhadra At Dadesugur Bridge Gauging Station|15.691848|76.895721,WQS1891,100.0,name match (coordinate pipeline),dropped: not one-to-one
+CPCB|Ganga At Haridwar D/S Upper Ganga Canal D/S Balkumari Mandir Ajeetpur Haridwar|29.945254|78.164675,WQS1803,100.0,coordinate within 0.5 km + name,dropped: not one-to-one
+CPCB|Ganga River After Confluence Of River Song Near Satyanarayan Temple D/S Raiwala Dehradun|30.019619|78.22939,WQS1799,99.3939393939394,coordinate within 0.5 km + name,linked
+CPCB|Godavari River At Saikheda Niphad Nashik|20.014695|74.007463,WQS1022,100.0,coordinate within 0.5 km + name,linked
+CPCB|Godavari River Near Someshwar Temple Someshwar Nashik|20.022812|73.728178,WQS1026,100.0,coordinate within 0.5 km + name,linked
+CPCB|Purna River A/C Of Morna Andura Village Balapur Akola|20.88237|76.856618,WQS1048,97.24770642201835,coordinate within 0.5 km + name,linked
+CPCB|River Ganga At Har-Ki-Pauri Ghat|29.943552|78.166796,WQS1800,100.0,coordinate within 0.5 km + name,linked
+CPCB|River Ganga U/S Haridwar At Abindughat Dudhiyabad Haridwar|29.945445|78.165028,WQS1803,89.47368421052632,coordinate within 0.5 km + name,dropped: not one-to-one
+CPCB|River Ganga U/S Haridwar At Abindughat Dudhiyabad Haridwar|29.945445|78.165028,WQS1807,98.0,coordinate within 0.5 km + name,dropped: not one-to-one
+CPCB|River Sabarmati At Ahmedabad D/S|22.915326|72.515828,WQS0341,100.0,coordinate within 0.5 km + name,linked
+CPCB|River Yamuna D/S Ranbaxy|30.429123|77.603639,WQS0516,100.0,coordinate within 0.5 km + name,linked
+CPCB|Upper Ganga Canal At Lal Ta Rao Bridge Haridwar|29.947667|78.161833,WQS1803,89.47368421052632,coordinate within 0.5 km + name,dropped: not one-to-one
+CPCB|Venna River At Mahuli Satara|17.692894|74.050883,WQS0978,85.71428571428571,coordinate within 0.5 km + name,dropped: not one-to-one
+CPCB|Venna River At Mahuli Satara|17.692894|74.050883,WQS1071,98.24561403508773,coordinate within 0.5 km + name,dropped: not one-to-one
