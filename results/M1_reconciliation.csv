@@ -1,0 +1,15 @@
+item,value,note
+"monthly records (CPCB agency, 2020-2021), after removing exact duplicates",5169,2 exact duplicates removed
+linked monitoring keys (one-to-one),290,
+linked station-years with any monthly record,481,
+linked stations with any monthly record,288,
+linked station-years also in the CPCB table (Panel A_long),361,
+stations among them,255,
+stations in the CPCB table in both 2020 and 2021 with monthly records in both,106,
+check: station-years - stations,106,
+BOD: stations with >= 4 monthly samples in both years (rev 19 benchmark set),143,
+"BOD: of these, in the CPCB table with BOD status in both years (rev 20 benchmark set)",73,
+FC: stations with >= 4 monthly samples in both years (rev 19 benchmark set),152,
+"FC: of these, in the CPCB table with FC status in both years (rev 20 benchmark set)",81,
+PH: stations with >= 4 monthly samples in both years (rev 19 benchmark set),178,
+"PH: of these, in the CPCB table with PH status in both years (rev 20 benchmark set)",101,

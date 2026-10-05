@@ -1,0 +1,4 @@
+indicator,stations_both_years,stations_unequal_counts,adverse_more_samples,adverse_fewer_samples,discordant_more_only,discordant_fewer_only
+BOD,98,72,0.264,0.153,11,3
+FC,89,56,0.036,0.018,1,0
+PH,106,53,0.189,0.113,9,5

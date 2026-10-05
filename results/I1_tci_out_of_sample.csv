@@ -1,0 +1,13 @@
+indicator,class_2016_2020,stations,share_of_classified,station_years_2021_2024,adverse_share_2021_2024,stations_always_adverse_later,stations_never_adverse_later,same_class_2021_2024,class_2021_2024_missing
+BOD,reliably adverse,330,0.355,1281,0.808,0.688,0.079,0.658,4
+BOD,borderline,341,0.367,1334,0.183,0.041,0.598,0.704,5
+BOD,reliably compliant,259,0.278,1014,0.022,0.0,0.923,0.78,0
+FC,reliably adverse,178,0.286,689,0.869,0.798,0.045,0.742,4
+FC,borderline,164,0.264,629,0.183,0.11,0.695,0.665,6
+FC,reliably compliant,280,0.45,1080,0.015,0.0,0.971,0.946,3
+PH,reliably adverse,46,0.049,181,0.326,0.152,0.348,0.13,1
+PH,borderline,506,0.541,1994,0.2,0.049,0.573,0.553,1
+PH,reliably compliant,383,0.41,1463,0.068,0.003,0.807,0.684,9
+DO,reliably adverse,177,0.191,688,0.653,0.469,0.147,0.486,3
+DO,borderline,255,0.276,994,0.205,0.027,0.51,0.561,2
+DO,reliably compliant,493,0.533,1927,0.049,0.004,0.86,0.819,5

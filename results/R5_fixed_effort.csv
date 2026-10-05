@@ -1,0 +1,4 @@
+indicator,stations,prevalence_all,prevalence_quarterly,ICC_all,ICC_quarterly_median,ICC_quarterly_range,P11_all,P11_quarterly,P01_all,P01_quarterly
+BOD,98,0.245,0.183,0.507,0.56,0.46-0.67,0.625,0.667,0.122,0.086
+FC,89,0.034,0.033,0.658,0.658,0.51-0.66,0.667,0.667,0.012,0.012
+PH,106,0.16,0.093,0.164,0.166,0.02-0.34,0.278,0.25,0.125,0.078

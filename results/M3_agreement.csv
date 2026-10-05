@@ -1,0 +1,4 @@
+indicator,station_years,stations,value_identical,status_identical
+BOD,350,253,0.949,0.9971
+FC,236,147,0.962,1.0
+PH,353,247,0.969,0.9972

@@ -1,0 +1,13 @@
+indicator,variant,stations,adverse_2020,observed_changes,observed_P11,pooled_expected,pooled_lo,pooled_hi,pooled_p_upper,swap_expected,swap_lo,swap_hi,swap_p_upper
+BOD,"main: table-linked, all months",73,20,14,0.65,10.9,9.0,13.0,0.023,11.1,9.0,14.0,0.042
+BOD,"COVID-19: June-December only, both years",65,16,14,0.562,12.1,11.0,14.0,0.049,12.5,11.0,14.0,0.1379
+BOD,two records in a month collapsed to their mean,73,19,13,0.684,10.0,8.0,12.0,0.018,10.1,8.0,13.0,0.036
+BOD,"rev 19 set (not table-restricted), for reference",143,47,29,0.617,22.6,19.0,26.0,0.002,22.9,20.0,26.0,0.001
+FC,"main: table-linked, all months",81,2,1,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0
+FC,"COVID-19: June-December only, both years",75,1,0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
+FC,two records in a month collapsed to their mean,81,2,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+FC,"rev 19 set (not table-restricted), for reference",152,13,5,0.692,5.0,5.0,6.0,1.0,5.0,5.0,5.0,1.0
+PH,"main: table-linked, all months",101,17,23,0.294,20.1,18.0,22.0,0.016,20.2,18.0,22.0,0.025
+PH,"COVID-19: June-December only, both years",95,13,16,0.077,13.8,11.975000000000001,16.0,0.0819,13.9,12.0,16.0,0.0889
+PH,two records in a month collapsed to their mean,101,17,23,0.294,20.1,18.0,22.0,0.023,20.2,18.0,22.0,0.025
+PH,"rev 19 set (not table-restricted), for reference",178,34,24,0.647,22.0,20.0,25.0,0.1389,22.2,20.0,25.0,0.1748

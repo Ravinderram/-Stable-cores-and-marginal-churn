@@ -1,0 +1,5 @@
+indicator,stations,station_years,accuracy_single_year_2020,accuracy_majority_2016_2020,tci_reliable_station_share,accuracy_tci_reliable,accuracy_single_year_on_borderline,share_late_changes_at_borderline
+BOD,774,3021,0.822,0.834,0.598,0.88,0.744,0.556
+FC,575,2219,0.922,0.893,0.75,0.94,0.832,0.494
+PH,774,3018,0.829,0.836,0.46,0.894,0.757,0.704
+DO,771,3009,0.859,0.86,0.756,0.891,0.732,0.442

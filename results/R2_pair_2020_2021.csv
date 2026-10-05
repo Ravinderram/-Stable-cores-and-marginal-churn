@@ -1,0 +1,13 @@
+indicator,set,P11,adverse_in_2020
+ADV_BOD,"network, 2020-2021",0.763,283.0
+ADV_BOD,"network, all pairs 2016-2024",0.811,
+ADV_BOD,"states of the monthly subset, 2020-2021",0.832,149.0
+ADV_BOD,"linked stations, 2020-2021 (table status)",0.645,31.0
+ADV_FC,"network, 2020-2021",0.89,246.0
+ADV_FC,"network, all pairs 2016-2024",0.881,
+ADV_FC,"states of the monthly subset, 2020-2021",0.773,88.0
+ADV_FC,"linked stations, 2020-2021 (table status)",0.5,4.0
+ADV_PH,"network, 2020-2021",0.304,135.0
+ADV_PH,"network, all pairs 2016-2024",0.406,
+ADV_PH,"states of the monthly subset, 2020-2021",0.329,73.0
+ADV_PH,"linked stations, 2020-2021 (table status)",0.3,20.0
