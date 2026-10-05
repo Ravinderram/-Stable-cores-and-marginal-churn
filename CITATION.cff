@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below, together with the associated article."
+title: "Stable cores and marginal churn: reliability of a single-year exceedance indicator across India's river monitoring network, 2016-2024 (data and code)"
+type: software
+authors:
+  - family-names: Singh
+    given-names: Ranjit
+    affiliation: "Leuphana University Lüneburg"
+version: "rev20"
+date-released: "2026-10-05"
+license: MIT
+abstract: >-
+  Harmonized station-year dataset of India's National Water Quality Monitoring Programme river stations
+  (CPCB annual reports, 2016-2024; 1,891 stations), linked monthly records, context variables, and the
+  complete Python and R pipeline that tests the reliability of single-year exceedance status as a
+  water-quality indicator.
+keywords:
+  - water quality
+  - status indicator
+  - compliance assessment
+  - measurement uncertainty
+  - monitoring network
+  - India

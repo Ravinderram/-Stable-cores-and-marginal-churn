@@ -1,0 +1,13 @@
+# Python packages for the analysis pipeline (code/r20). Last run with the versions in brackets.
+pandas>=2.2,<4     # (3.0.5); pandas 4 will reject positional axis arguments used here
+numpy>=1.26        # (2.5.3)
+scipy>=1.11        # (1.18.1)
+matplotlib>=3.8    # (3.11.2)
+geopandas>=0.14    # (1.2.0), map in Fig. 2
+shapely>=2.0       # (2.1.2)
+pyogrio>=0.7       # reads the GeoPackage files
+openpyxl>=3.1      # reads data/raw/water_quality_merged_2016-2024.xlsx
+
+# Only for the local river-network step (code/local/07_upstream_hydrorivers.py):
+# rasterio>=1.3
+# requests>=2.31

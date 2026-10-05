@@ -1,0 +1,33 @@
+# Python and R
+__pycache__/
+*.pyc
+.venv/
+venv/
+.Rhistory
+.RData
+.Rproj.user/
+
+# pipeline logs
+logs/
+
+# monthly records are not redistributed (download with code/tools/download_esri_monthly.py)
+data/monthly/esri_timeseries_2020_2025.csv
+
+# large downloads of the local river-network step
+code/local/hydrosheds/
+code/local/population/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.blg
+*.bbl
+*.abs
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# system files
+.DS_Store
+Thumbs.db
